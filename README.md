@@ -4,4 +4,4 @@ Using Local Binary Pattern, i compared mask results according to groundtruth res
 
 I have data sets which provided by: http://www.votchallenge.net/vot2019/dataset.html
 
-I have also groundtruth and Mask R-CNN results.
+I have also groundtruth and Mask R-CNN results. But i share with you just for trial mask/gt values.
